@@ -38,6 +38,6 @@ Note that links in the table of content is not lead to chatgpt website...
 
 # Make a 2-3 paragraph on every question
 
-Create markdown table in the beginning of the document with 2 columns "question" and "comments"
+Create markdown table in the beginning of the document with 2 columns "question" and "Your comments"
 
 &nbsp;
