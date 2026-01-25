@@ -1,3 +1,9 @@
+# Question formulation prompt
+
+Formulate a comprehensive list of questions about the book (at least 150). The questions should be organized by chapter, with a block of questions for each chapter preceded by the chapter title. Cover all topics within each chapter with these questions. Conclude with a section of general questions covering the entire book.
+
+# Markdown creation with Table of content prompt
+
 Create markdown document with the name A with Table of content with links on local headings of document A.  
 Every heading is a question that you are extracted earlier from the book.
 
