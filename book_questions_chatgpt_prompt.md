@@ -1,9 +1,3 @@
-# Question formulation prompt
-
-Formulate a comprehensive list of questions about the book (at least 150). The questions should be organized by chapter, with a block of questions for each chapter preceded by the chapter title. Cover all topics within each chapter with these questions. Conclude with a section of general questions covering the entire book.
-
-# Markdown creation with Table of content prompt
-
 Create markdown document with the name A with Table of content with links on local headings of document A.  
 Every heading is a question that you are extracted earlier from the book.
 
@@ -38,6 +32,4 @@ Note that links in the table of content is not lead to chatgpt website...
 
 # Make a 2-3 paragraph on every question
 
-Create markdown table in the beginning of the document with 2 columns "question" and "comments". Question also with numbers.
-
-&nbsp;
+Create markdown table in the beginning of the document with 2 columns "question" and "comments". Question also with numbers and links as it was in the table of contents. 
